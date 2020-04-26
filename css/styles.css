@@ -1,1 +1,18 @@
+h1 {
+  font-style: italic;
+  float: right;
 
+}
+body {
+  background-color:  skyblue;
+}
+.intro {
+  font-style: italic;
+}
+.important {
+float: right;
+border: 2px;
+padding: 6px;
+margin: 0.5px;
+width: auto;
+}
