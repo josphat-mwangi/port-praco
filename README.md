@@ -1,4 +1,4 @@
-#portfolio
+# portfolio
 How to create portfolio using HTML and CSS .This project is done by Josphat Mwangi
 
 ## Prerequisites
@@ -8,7 +8,7 @@ Basic git knowledge, including an installed version of github
 
 Browser or Text Editor
 
-##technologies used
+## technologies used
 -HTML and CSS
 -Terminal/CLI ( Command line Interface)
 
@@ -19,13 +19,13 @@ Browser or Text Editor
   -cd into Directory ' cd Portfolio'
   -Open my-portfolio.html
 
-  ###Github pages
+  ### Github pages
    Here is the live link
    'https://github.com/josphat-mwangi/Portfolio'
 
 
 
-##License
+## License
 The MIT License (MIT)
 Copyright (c)2020 Josphat mwangi
 
